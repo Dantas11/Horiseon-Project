@@ -6,7 +6,7 @@ This code was created for bootcamp challenge. This challenge involves web develo
 
 ## Website image
 
-![Website Page](https://dantas11.github.io/horiseon-project/assets/images/horiseon-page.jpeg)
+![Website Page](https://github.com/Dantas11/Horiseon-Project/blob/main/assets/images/horiseon-page.jpeg)
 
 
 
