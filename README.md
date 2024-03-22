@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this website open the link [Horiseon page](https://dantas11.github.io/horiseon-project/)
+To use this website open the link [Horiseon page](file:///C:/Users/thiag/Documents/bootcamp/Repositories/Challenges/1/horiseon-project/index.html)
 
 ## Credits
 
